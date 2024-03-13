@@ -21,6 +21,7 @@ namespace HelloWorld1
         {
             label1.Text = "Hello World";
             label2.Text = "123";
+            Console.WriteLine("123");
         }
     }
 }
